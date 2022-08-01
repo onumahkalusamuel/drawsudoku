@@ -1,0 +1,2 @@
+#!/bin/sh
+go run generate.go --difficulty simple --nums 1000

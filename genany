@@ -1,0 +1,2 @@
+#!/bin/sh
+go run generate.go --nums 1000
